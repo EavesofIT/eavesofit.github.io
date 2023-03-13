@@ -1,16 +1,16 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Why you should listen to me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is AJ Eaves. I am a techy person through and through.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- I am deeply interested in DevOps and making Devs lives better
+- I passionate about volunteering and making my community a better place
 
 What else do you need?
 
 ### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I went to the college for IT with a keen interest in the virtualization and the cloud. I became more interested in cloud by the time I graduated and focused on getting a job in that area of the field.
